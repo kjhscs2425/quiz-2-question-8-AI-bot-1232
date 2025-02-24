@@ -22,3 +22,4 @@ for i in range(1):
                 print(word)
 print("Total words generated: {len(words)}")
 print(f"Total unique words: {len(set(words))}")
+
